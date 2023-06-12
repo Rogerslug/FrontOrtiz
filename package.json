@@ -1,0 +1,15 @@
+{
+  "name": "back_sh",
+  "version": "1.0.0",
+  "description": "primer backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lvisifer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
